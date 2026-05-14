@@ -1,4 +1,4 @@
-# CI/CD Pipeline for Spring Boot Book Library Application
+# CI/CD Pipeline for Spring Boot Library Application
 
 ## Overview
 This project implements a secure CI/CD pipeline for a containerized Spring Boot and MongoDB application deployed to AWS EC2. It demonstrates practical DevOps skills through Jenkins automation, automated testing, dependency vulnerability scanning, static analysis, Docker image publishing, Terraform provisioning, and deployment validation.

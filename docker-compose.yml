@@ -1,0 +1,24 @@
+services:
+  app:
+    image: waternogetenemy/book-library:${IMAGE_TAG}
+    container_name: book-library
+    ports:
+      - "8080:3001"
+    environment:
+      MONGO_URI: mongodb://admin:admin@mongo:27017/superData?authSource=admin
+    depends_on:
+      - mongo
+    restart: unless-stopped
+
+  mongo:
+    image: mongo:7
+    container_name: book-library-mongo
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: admin
+    volumes:
+      - mongo-data:/data/db
+    restart: unless-stopped
+
+volumes:
+  mongo-data:

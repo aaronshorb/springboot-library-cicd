@@ -1,0 +1,87 @@
+[
+  {
+    "_id": {
+      "$oid": "64de122465ba6ca132e2d001"
+    },
+    "id": 0,
+    "name": "Monkey with a Tool Belt",
+    "image": "https://i.ibb.co/b5yH8THj/image.jpg",
+    "author": "Chris Monroe",
+    "edition": "2008",
+    "description": "Whether you need a beebersaw or a chisel, Chico Bon Bon's your monkey. He can build or fix just about anything―from a dock for the ducks to a clock for the Clucks, even a small roller coaster for local chipmunks. But will his tools and his sharp wit save him when an organ grinder sets his sights on making Chico a circus star?"
+  },
+  {
+    "_id": {
+      "$oid": "64de122465ba6ca132e2d002"
+    },
+    "id": 1,
+    "name": "Monkey with a Tool Belt and the Noisy Problem",
+    "image": "https://i.ibb.co/zW2VKwFh/1.jpg",
+    "author": "Chris Monroe",
+    "edition": "2009",
+    "description": "Chico Bon Bon has a problem... a noisy problem. He wants to fix it. BUT HE CAN'T FIND IT! What's a monkey to do? Use his tools, of course. With his tool belt, Chico can do anything!"
+  },
+  {
+    "_id": {
+      "$oid": "64de122465ba6ca132e2d003"
+    },
+    "id": 2,
+    "name": "Monkey with a Tool Belt and the Seaside Shenanigans",
+    "image": "https://i.ibb.co/0VjpSyPM/2.jpg",
+    "author": "Chris Monroe",
+    "edition": "2011",
+    "description": "Clark has an enormous problem. Someone is sabotaging his uncle's seaside resort! What does he do? He calls Chico Bon Bon, the Monkey with a Tool Belt, of course. Chico and his tool belt start to tackle Clark's problems, but as soon as Chico fixes one thing, something else breaks! If Chico can't find out who's behind these shenanigans, he'll never get to go surfing!"
+  },
+  {
+    "_id": {
+      "$oid": "64de122465ba6ca132e2d004"
+    },
+    "id": 3,
+    "name": "Monkey with a Tool Belt and the Maniac Muffins",
+    "image": "https://i.ibb.co/FL1tHhS8/3.jpg",
+    "author": "Chris Monroe",
+    "edition": "2016",
+    "description": "Clark's baking project is not going as planned. Now gigantic maniac muffins are on the loose! To stop them, Chico Bon Bon needs a plan.. and his tool belt, of course. With the right tools and some quick thinking, this crumbly disaster might just have a tasty solution!"
+  },
+  {
+    "_id": {
+      "$oid": "64de122465ba6ca132e2d005"
+    },
+    "id": 4,
+    "name": "Monkey with a Tool Belt and the Silly School Mystery",
+    "image": "https://i.ibb.co/8L4mcQmR/4.jpg",
+    "author": "Chris Monroe",
+    "edition": "2017",
+    "description": "Chico Bon Bon and Clark are having the most unusual school day. Supplies go missing and suspicious bite marks are appearing all over school. Chico Bon Bon is on the case with his trusty tool belt."
+  },
+  {
+    "_id": {
+      "$oid": "64de122465ba6ca132e2d006"
+    },
+    "id": 5,
+    "name": "Monkey with a Tool Belt Blasts Off!",
+    "image": "https://i.ibb.co/twL92CB2/5.jpg",
+    "author": "Chris Monroe",
+    "edition": "2020",
+    "description": "Oh no, the Moon Malt machine at the Superstar Space Station and Snack Bar is broken! The ever-resourceful Chico Bon Bon and his trusty sidekick Clark the elephant ZOOM to the rescue. While working on the malfunctioning Moon Malt machine, they discover myriad other things in need of fixing, including a hatch and a latch and a droid's underwear. And then--FWHOOSH! KA-BOING!--what was that? It's the cutest alien in the universe, and she's stranded at the space station due to a broken down spaceship!"
+  },
+  {
+    "_id": {
+      "$oid": "64de122465ba6ca132e2d007"
+    },
+    "id": 6,
+    "name": "Monkey with a Tool Belt and the Craftiest Christmas Ever!",
+    "image": "https://i.ibb.co/qMN63HpT/6.jpg",
+    "author": "Chris Monroe",
+    "edition": "2021",
+    "description": "Chico Bon Bon's epic Christmas party is three days away! Is our intrepid monkey ready? Of course not! But thanks to his trusty tool belt and plenty of ingenuity, Chico helps his friends decorate, turns a pile of junk into a bundle of gifts, and finishes preparing for the party just in the nick of time. WHEW! The latest installment from author and illustrator Chris Monroe is packed full of fun, friendship, and holiday cheer!"
+  }
+]
+
+
+
+
+
+
+
+

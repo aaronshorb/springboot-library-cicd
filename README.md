@@ -125,5 +125,3 @@ Before running the pipeline, configure the following:
 4. Copy `data/book_data.json` to the EC2 instance and import it into MongoDB.<br>
 5. Confirm the deployment at `http://<ip>:8080`.
 <br>
-
-*This project was adapted from a small Java/Spring Boot application and extended into a full CI/CD deployment pipeline.
